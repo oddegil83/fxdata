@@ -237,7 +237,7 @@ a {
     z-index: 1;
     max-width: 680px;
     color: var(--white);
-    padding: 2rem 0;
+    padding: 2rem 1.5rem;
 }
 
 .hero-content h1 {
